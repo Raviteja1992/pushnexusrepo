@@ -40,3 +40,4 @@
       <url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
+</project>
