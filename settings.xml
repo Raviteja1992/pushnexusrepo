@@ -1,4 +1,4 @@
-﻿<settings>
+
   <servers>
     <server>
         <id>Release</id>
@@ -11,4 +11,4 @@
         <password>123456</password>
       </server>
   </servers>
-</settings>
+
