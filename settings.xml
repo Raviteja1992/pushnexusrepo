@@ -1,0 +1,14 @@
+﻿<settings>
+  <servers>
+    <server>
+        <id>Release</id>
+        <username>admin</username>
+        <password>123456</password>
+      </server>
+     <server>
+        <id>Snapshot</id>
+        <username>admin</username>
+        <password>123456</password>
+      </server>
+  </servers>
+</settings>
