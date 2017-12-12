@@ -26,8 +26,17 @@
 
   <distributionManagement>
     <repository>
-      <id>Snapshot</id>
-      <url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
+      <uniqueVersion>false</uniqueVersion>
+      <id>Release</id>
+      <name>Releases</name>
+      <url>http://localhost:8081/nexus/content/repositories/Release/</url>
+      <layout>default</layout>
     </repository>
+
+    <snapshotRepository>
+      <uniqueVersion>true</uniqueVersion>
+      <id>Snapshot</id>
+      <name>Snapshots</name>
+      <url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
+    </snapshotRepository>
   </distributionManagement>
-</project>
