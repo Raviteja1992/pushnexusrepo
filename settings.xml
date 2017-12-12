@@ -6,7 +6,7 @@
         <password>123456</password>
       </server>
      <server>
-        <id>Snapshot</id>
+       <id>Snapshot</id>
         <username>admin</username>
         <password>123456</password>
       </server>
