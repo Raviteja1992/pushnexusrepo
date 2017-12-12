@@ -27,7 +27,7 @@
   <distributionManagement>
     <repository>
       <id>Snapshot</id>
-      <name>Loocsij</name><url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
+      <url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
     </repository>
   </distributionManagement>
 </project>
