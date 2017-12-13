@@ -2,12 +2,12 @@
   <servers>
     <server>
         <id>Release</id>
-        <username>deployment</username>
+        <username>admin</username>
         <password>123456</password>
       </server>
      <server>
        <id>Snapshot</id>
-        <username>deployment</username>
+        <username>admin</username>
         <password>123456</password>
       </server>
   </servers>
